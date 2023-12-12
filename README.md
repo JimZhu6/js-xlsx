@@ -1,3 +1,18 @@
+> 本项目引用了原来 [js-xlsx](https://github.com/protobi/js-xlsx) 的项目文件，并加以修改。所有变更内容将会直接推送到master分支。
+
+安装方法：
+```sh
+npm install @jim_zhu/xlsx-style --save
+```
+
+
+修改记录：
+
+- 0.8.23（2023-12-12）
+  - 修复了找不到'./cptable'的问题。 （解决方法引用地址：https://github.com/protobi/js-xlsx/issues/155 ）
+
+---
+
 # xlsx-style
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
