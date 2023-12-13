@@ -8,7 +8,7 @@ npm install @jim_zhu/xlsx-style --save
 
 修改记录：
 
-- 0.8.23（2023-12-12）
+- 0.8.24（2023-12-12）
   - 修复了找不到'./cptable'的问题。 （解决方法引用地址：https://github.com/protobi/js-xlsx/issues/155 ）
 
 ---
