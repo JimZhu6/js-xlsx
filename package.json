@@ -1,6 +1,6 @@
 {
 	"name": "@jim_zhu/js-xlsx",
-	"version": "0.8.26",
+	"version": "0.8.27",
 	"author": "jim_zhu",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
 	"keywords": [ "excel", "xls", "xlsx", "xlsb", "xlsm", "ods", "office", "spreadsheet" ],
